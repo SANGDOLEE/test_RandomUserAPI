@@ -20,7 +20,7 @@
 
 <br>
 <br>
-<img src="https://github.com/SANGDOLEE/test_RandomUserAPI/assets/108053426/7185e9ce-4ff9-446d-bf14-d481f4937649">
+<img src="https://github.com/SANGDOLEE/test_RandomUserAPI/assets/108053426/7185e9ce-4ff9-446d-bf14-d481f4937649" width="400px;" alt="">
 
 
 <br>
