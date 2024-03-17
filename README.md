@@ -1,8 +1,8 @@
 <h1> SwiftUI API 통신 </h1>
-사용 API : RandomUser.me
-통신 라이브러리 : Alamofire
-Combine
-이미지 라이브러리 : URLImage
+<p>사용 API : RandomUser.me</p>
+<p>통신 라이브러리 : Alamofire</p>
+<p>Combine</p>
+<p>이미지 라이브러리 : URLImage</p>
 
 
 1. @main에서 ContentView() 호출
