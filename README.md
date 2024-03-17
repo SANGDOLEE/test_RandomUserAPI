@@ -17,3 +17,11 @@
 6. randomUser는 @Published이기 때문에 변경사항을 알 수 있다.
 7. ContentView에서 randomUserViewModel이 가지고 있는 randomUser의 데이터가 변경이 되면 그걸 알아차리고 뷰를 그려준다.
 8. View를 그리게 될때는 RandomUserRowView 에서 들어온 데이터를 통해 View를 그림
+
+<br>
+<br>
+<img src="https://github.com/SANGDOLEE/test_RandomUserAPI/assets/108053426/7185e9ce-4ff9-446d-bf14-d481f4937649">
+
+
+<br>
+<br>
