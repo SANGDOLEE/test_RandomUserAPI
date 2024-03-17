@@ -4,8 +4,8 @@
 <p>Combine</p>
 <p>이미지 라이브러리 : URLImage</p>
 
-<p></p>
-<p></p>
+<br>
+<br>
 
 1. @main에서 ContentView() 호출
 2. ContentView에서 @ObservedObject통해서 RandomUserViewModel() 생성
